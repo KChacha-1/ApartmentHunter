@@ -7070,30 +7070,5 @@ No BIN found by exact address, house-number range, or a building within 15 m of 
 | $3,200 | 1 bd / 1 ba | 560 Main Street #146 | Roosevelt Island | 2026-10-11 (first seen) | [streeteasy](https://streeteasy.com/building/the-landings-at-560-576-main-street/146) |
 | $3,220 | Studio / 1 ba | 22-51 45th Street #2J | Ditmars-Steinway | 2026-10-11 (first seen) | [streeteasy](https://streeteasy.com/building/fabric-astoria/2j) |
 
-## Data coverage
-
-Queens records per month in each dataset. A sudden drop usually means an incomplete download.
-
-| Month | HPD complaints (`nyc_ygpa_z7cr_staging`) | HPD violations (`nyc_wvxf_dwi5_staging`) | DOB complaints (`nyc_eabe_havv_staging`) |
-|---|---|---|---|
-| 2026-10 | 0 | 1 | 610 |
-| 2026-09 | 15 | 232 | 1,827 |
-| 2026-08 | 23 | 650 | 1,863 |
-| 2026-07 | 62 | 464 | 1,934 |
-| 2026-06 | 14 | 739 | 1,603 |
-| 2026-05 | 0 | 2,018 | 1,532 |
-| 2026-04 | 107 | 659 | 1,693 |
-| 2026-03 | 31 | 916 | 1,768 |
-| 2026-02 | 15 | 854 | 1,263 |
-| 2026-01 | 205 | 836 | 1,523 |
-| 2025-12 | 103 | 1,026 | 1,354 |
-| 2025-11 | 220 | 1,442 | 1,468 |
-| 2025-10 | 10 | 800 | 1,883 |
-| 2025-09 | 10 | 1,129 | 1,569 |
-| 2025-08 | 0 | 844 | 1,780 |
-| 2025-07 | 57 | 661 | 1,778 |
-| 2025-06 | 6 | 2,253 | 1,789 |
-| 2025-05 | 1 | 1,020 | 1,619 |
-| 2025-04 | 33 | 1,045 | 1,635 |
 
 _DOB complaint categories are DOB complaint category codes. HPD complaints are counted per complaint; a complaint with several problems counts once per category._
