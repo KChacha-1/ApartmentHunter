@@ -564,7 +564,7 @@ Generated 2026-10-11 · 321 listings in 223 matched buildings · NYC records sin
 
 ### 🔴 34-15 Parsons Boulevard
 
-BIN [4113027](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4113027); HPD building id 687226; tax lot (BBL) 4049950001; found by exact address
+BIN [4113027](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4113027); HPD building id [687226](https://hpdonline.nyc.gov/hpdonline/building/687226/overview); tax lot (BBL) 4049950001; found by exact address
 
 Heat history: 183 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-26. Flagged yellow for this regardless of the 18-month window above.
 
@@ -629,7 +629,7 @@ Most recent 3 of 3:
 
 ### 🔴 64-35 Yellowstone Boulevard
 
-BIN [4432065](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432065); HPD building id 706048; tax lot (BBL) 4021500001; found by exact address
+BIN [4432065](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432065); HPD building id [706048](https://hpdonline.nyc.gov/hpdonline/building/706048/overview); tax lot (BBL) 4021500001; found by exact address
 
 Other buildings on this tax lot (2): no records. Not counted in this building's flag.
 
@@ -687,7 +687,7 @@ Most recent 4 of 4:
 
 ### 🔴 40-52 75th Street
 
-BIN [4036724](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036724); HPD building id 472989; tax lot (BBL) 4014850051; found by exact address
+BIN [4036724](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036724); HPD building id [472989](https://hpdonline.nyc.gov/hpdonline/building/472989/overview); tax lot (BBL) 4014850051; found by exact address
 
 Heat history: 28 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-11. Flagged yellow for this regardless of the 18-month window above.
 
@@ -738,7 +738,7 @@ Most recent 1 of 1:
 
 ### 🔴 14070 Ash Ave
 
-BIN [4117141](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4117141); HPD building id 628606; tax lot (BBL) 4051850037; found by exact address
+BIN [4117141](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4117141); HPD building id [628606](https://hpdonline.nyc.gov/hpdonline/building/628606/overview); tax lot (BBL) 4051850037; found by exact address
 
 Heat history: 63 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2025-01-20. Flagged yellow for this regardless of the 18-month window above.
 
@@ -792,7 +792,7 @@ Most recent 2 of 2:
 
 ### 🔴 34-10 84th Street
 
-BIN [4035515](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035515); HPD building id 421477; tax lot (BBL) 4014440006; found by exact address
+BIN [4035515](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035515); HPD building id [421477](https://hpdonline.nyc.gov/hpdonline/building/421477/overview); tax lot (BBL) 4014440006; found by exact address
 
 Heat history: 23 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -845,7 +845,7 @@ Most recent 2 of 2:
 
 ### 🔴 41-25 Case Street
 
-BIN [4039107](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4039107); HPD building id 642725; tax lot (BBL) 4015640058; found by exact address
+BIN [4039107](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4039107); HPD building id [642725](https://hpdonline.nyc.gov/hpdonline/building/642725/overview); tax lot (BBL) 4015640058; found by exact address
 
 Heat history: 71 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-27. Flagged yellow for this regardless of the 18-month window above.
 
@@ -923,7 +923,7 @@ Most recent 4 of 4:
 
 ### 🔴 37-33 College Point Boulevard
 
-BIN [4112263](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4112263); HPD building id 672189; tax lot (BBL) 4049720001; found by exact address
+BIN [4112263](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4112263); HPD building id [672189](https://hpdonline.nyc.gov/hpdonline/building/672189/overview); tax lot (BBL) 4049720001; found by exact address
 
 Heat history: 80 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2025-11-10. Flagged yellow for this regardless of the 18-month window above.
 
@@ -979,7 +979,7 @@ None since 2025-04-11.
 
 ### 🔴 42-54 Judge Street
 
-BIN [4037519](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4037519); HPD building id 652806; tax lot (BBL) 4015180044; found by exact address
+BIN [4037519](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4037519); HPD building id [652806](https://hpdonline.nyc.gov/hpdonline/building/652806/overview); tax lot (BBL) 4015180044; found by exact address
 
 Heat history: 25 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-03-21. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1023,7 +1023,7 @@ None since 2025-04-11.
 
 ### 🔴 35-05 94th Street
 
-BIN [4036162](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036162); HPD building id 422520; tax lot (BBL) 4014680001; found by exact address
+BIN [4036162](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036162); HPD building id [422520](https://hpdonline.nyc.gov/hpdonline/building/422520/overview); tax lot (BBL) 4014680001; found by exact address
 
 Other buildings on this tax lot (1): HPD complaints 1 (0 open), HPD violations 14 (4 open), DOB complaints 5 (1 open). Not counted in this building's flag.
 
@@ -1101,7 +1101,7 @@ Most recent 6 of 6:
 
 ### 🔴 34-19 90th Street
 
-BIN [4431424](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431424); HPD building id 499726; tax lot (BBL) 4014510047; found by exact address
+BIN [4431424](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431424); HPD building id [499726](https://hpdonline.nyc.gov/hpdonline/building/499726/overview); tax lot (BBL) 4014510047; found by exact address
 
 Other buildings on this tax lot (2): HPD violations 15 (4 open), DOB complaints 7 (0 open). Not counted in this building's flag.
 
@@ -1154,7 +1154,7 @@ Most recent 1 of 1:
 
 ### 🔴 104-40 Queens Boulevard
 
-BIN [4433858](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4433858); HPD building id 811764; tax lot (BBL) 4031750001; found by exact address
+BIN [4433858](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4433858); HPD building id [811764](https://hpdonline.nyc.gov/hpdonline/building/811764/overview); tax lot (BBL) 4031750001; found by exact address
 
 Other buildings on this tax lot (2): HPD violations 2 (0 open), DOB complaints 6 (0 open). Not counted in this building's flag.
 
@@ -1215,7 +1215,7 @@ Most recent 6 of 6:
 
 ### 🔴 99-65 64th Road
 
-BIN [4449615](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4449615); HPD building id 845250; tax lot (BBL) 4021130034; found by exact address
+BIN [4449615](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4449615); HPD building id [845250](https://hpdonline.nyc.gov/hpdonline/building/845250/overview); tax lot (BBL) 4021130034; found by exact address
 
 Other buildings on this tax lot (1): HPD violations 11 (3 open), DOB complaints 7 (1 open). Not counted in this building's flag.
 
@@ -1274,7 +1274,7 @@ Most recent 5 of 5:
 
 ### 🔴 42-15 81st Street
 
-BIN [4038193](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038193); HPD building id 484647; tax lot (BBL) 4015277501; found by exact address
+BIN [4038193](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038193); HPD building id [484647](https://hpdonline.nyc.gov/hpdonline/building/484647/overview); tax lot (BBL) 4015277501; found by exact address
 
 Heat history: 150 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2026-01-27. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1334,7 +1334,7 @@ Most recent 1 of 1:
 
 ### 🔴 61-25 97th Street
 
-BIN [4449614](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4449614); HPD building id 989603; tax lot (BBL) 4020820107; found by exact address
+BIN [4449614](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4449614); HPD building id [989603](https://hpdonline.nyc.gov/hpdonline/building/989603/overview); tax lot (BBL) 4020820107; found by exact address
 
 Other buildings on this tax lot (1): no records. Not counted in this building's flag.
 
@@ -1383,7 +1383,7 @@ Most recent 1 of 1:
 
 ### 🔴 61-09 39th Avenue
 
-BIN [4027810](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4027810); HPD building id 427305; tax lot (BBL) 4012167502; found by exact address
+BIN [4027810](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4027810); HPD building id [427305](https://hpdonline.nyc.gov/hpdonline/building/427305/overview); tax lot (BBL) 4012167502; found by exact address
 
 Heat history: 62 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-22. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1432,7 +1432,7 @@ Most recent 2 of 2:
 
 ### 🔴 107-06 Queens Boulevard
 
-BIN [4077483](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4077483); HPD building id 1000606; tax lot (BBL) 4032380044, 4032387505; found by exact address
+BIN [4077483](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4077483); HPD building id [1000606](https://hpdonline.nyc.gov/hpdonline/building/1000606/overview); tax lot (BBL) 4032380044, 4032387505; found by exact address
 
 Listed units:
 
@@ -1482,7 +1482,7 @@ Most recent 7 of 7:
 
 ### 🔴 41-42 42nd Street
 
-BIN [4002386](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4002386); HPD building id 430617; tax lot (BBL) 4001840037; found by exact address
+BIN [4002386](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4002386); HPD building id [430617](https://hpdonline.nyc.gov/hpdonline/building/430617/overview); tax lot (BBL) 4001840037; found by exact address
 
 Heat history: 53 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-04-20. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1524,7 +1524,7 @@ Most recent 1 of 1:
 
 ### 🔴 61-55 98th Street
 
-BIN [4431965](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431965); HPD building id 942149; tax lot (BBL) 4020930245; found by exact address
+BIN [4431965](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431965); HPD building id [942149](https://hpdonline.nyc.gov/hpdonline/building/942149/overview); tax lot (BBL) 4020930245; found by exact address
 
 Other buildings on this tax lot (1): DOB complaints 2 (0 open). Not counted in this building's flag.
 
@@ -1568,7 +1568,7 @@ Most recent 1 of 1:
 
 ### 🔴 32-05 81st Street
 
-BIN [4026926](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4026926); HPD building id 484559; tax lot (BBL) 4011770001; found by exact address
+BIN [4026926](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4026926); HPD building id [484559](https://hpdonline.nyc.gov/hpdonline/building/484559/overview); tax lot (BBL) 4011770001; found by exact address
 
 Heat history: 41 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-01-18. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1602,7 +1602,7 @@ None since 2025-04-11.
 
 ### 🔴 66-25 103rd Street
 
-BIN [4051252](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051252); HPD building id 514967; tax lot (BBL) 4021320045; found by exact address
+BIN [4051252](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051252); HPD building id [514967](https://hpdonline.nyc.gov/hpdonline/building/514967/overview); tax lot (BBL) 4021320045; found by exact address
 
 Heat history: 143 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-05-21. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1653,7 +1653,7 @@ None since 2025-04-11.
 
 ### 🔴 63-36 98th Place
 
-BIN [4050502](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4050502); HPD building id 508906; tax lot (BBL) 4020980018; found by exact address
+BIN [4050502](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4050502); HPD building id [508906](https://hpdonline.nyc.gov/hpdonline/building/508906/overview); tax lot (BBL) 4020980018; found by exact address
 
 Heat history: 33 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-01-31. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1692,7 +1692,7 @@ None since 2025-04-11.
 
 ### 🔴 34-20 30th Street
 
-BIN [4007357](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007357); HPD building id 416847; tax lot (BBL) 4005850035; found by exact address
+BIN [4007357](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007357); HPD building id [416847](https://hpdonline.nyc.gov/hpdonline/building/416847/overview); tax lot (BBL) 4005850035; found by exact address
 
 Heat history: 19 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-02-05. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1739,7 +1739,7 @@ Most recent 5 of 5:
 
 ### 🔴 26-80 30th Street
 
-BIN [4007748](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007748); HPD building id 416697; tax lot (BBL) 4005970001; found by exact address
+BIN [4007748](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007748); HPD building id [416697](https://hpdonline.nyc.gov/hpdonline/building/416697/overview); tax lot (BBL) 4005970001; found by exact address
 
 Heat history: 140 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2024-10-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1784,7 +1784,7 @@ Most recent 3 of 3:
 
 ### 🔴 32-50 93rd Street
 
-BIN [4034861](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4034861); HPD building id 503615; tax lot (BBL) 4014220029; found by exact address
+BIN [4034861](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4034861); HPD building id [503615](https://hpdonline.nyc.gov/hpdonline/building/503615/overview); tax lot (BBL) 4014220029; found by exact address
 
 Heat history: 88 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-29. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1827,7 +1827,7 @@ Most recent 1 of 1:
 
 ### 🔴 41-26 73rd Street
 
-BIN [4030666](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030666); HPD building id 470624; tax lot (BBL) 4013120035; found by exact address
+BIN [4030666](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030666); HPD building id [470624](https://hpdonline.nyc.gov/hpdonline/building/470624/overview); tax lot (BBL) 4013120035; found by exact address
 
 Heat history: 88 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-03-01. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1862,7 +1862,7 @@ None since 2025-04-11.
 
 ### 🔴 102-25 67th Drive
 
-BIN [4051268](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051268); HPD building id 459915; tax lot (BBL) 4021350059; found by exact address
+BIN [4051268](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051268); HPD building id [459915](https://hpdonline.nyc.gov/hpdonline/building/459915/overview); tax lot (BBL) 4021350059; found by exact address
 
 Heat history: 40 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2024-04-18. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1903,7 +1903,7 @@ Most recent 1 of 1:
 
 ### 🔴 94-05 35th Avenue
 
-BIN [4035805](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035805); HPD building id 422521; tax lot (BBL) 4014550050; found by exact address
+BIN [4035805](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035805); HPD building id [422521](https://hpdonline.nyc.gov/hpdonline/building/422521/overview); tax lot (BBL) 4014550050; found by exact address
 
 Heat history: 10 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-03-08. Flagged yellow for this regardless of the 18-month window above.
 
@@ -1935,7 +1935,7 @@ None since 2025-04-11.
 
 ### 🔴 55-01 31st Avenue
 
-BIN [4431251](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431251); HPD building id 810332; tax lot (BBL) 4011110001; found by exact address
+BIN [4431251](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431251); HPD building id [810332](https://hpdonline.nyc.gov/hpdonline/building/810332/overview); tax lot (BBL) 4011110001; found by exact address
 
 Other buildings on this tax lot (9): DOB complaints 4 (1 open). Not counted in this building's flag.
 
@@ -1969,7 +1969,7 @@ None since 2025-04-11.
 
 ### 🔴 25-28 30th Drive
 
-BIN [4007091](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007091), [4468063](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4468063); HPD building id 1007353; tax lot (BBL) 4005780031; found by exact address
+BIN [4007091](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007091), [4468063](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4468063); HPD building id [1007353](https://hpdonline.nyc.gov/hpdonline/building/1007353/overview); tax lot (BBL) 4005780031; found by exact address
 
 Listed units:
 
@@ -1999,7 +1999,7 @@ None since 2025-04-11.
 
 ### 🟡 61-20 Grand Central Parkway / 61-20 Grand Central Pkw
 
-BIN [4445338](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4445338); HPD building id 811488; tax lot (BBL) 4021620122; found by exact address
+BIN [4445338](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4445338); HPD building id [811488](https://hpdonline.nyc.gov/hpdonline/building/811488/overview); tax lot (BBL) 4021620122; found by exact address
 
 Heat history: 26 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2024-11-22. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2068,7 +2068,7 @@ Most recent 10 of 18:
 
 ### 🟡 102-45 Corona Avenue
 
-BIN [4048752](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4048752); HPD building id 646534; tax lot (BBL) 4019830052; found by exact address
+BIN [4048752](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4048752); HPD building id [646534](https://hpdonline.nyc.gov/hpdonline/building/646534/overview); tax lot (BBL) 4019830052; found by exact address
 
 Heat history: 23 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-18. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2111,7 +2111,7 @@ None since 2025-04-11.
 
 ### 🟡 37-21 80th Street
 
-BIN [4030008](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030008); HPD building id 483049; tax lot (BBL) 4012910064; found by exact address
+BIN [4030008](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030008); HPD building id [483049](https://hpdonline.nyc.gov/hpdonline/building/483049/overview); tax lot (BBL) 4012910064; found by exact address
 
 Heat history: 8 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-03-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2178,7 +2178,7 @@ Most recent 5 of 5:
 
 ### 🟡 99-60 64th Avenue
 
-BIN [4050818](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4050818); HPD building id 455297; tax lot (BBL) 4021130034; found by exact address
+BIN [4050818](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4050818); HPD building id [455297](https://hpdonline.nyc.gov/hpdonline/building/455297/overview); tax lot (BBL) 4021130034; found by exact address
 
 Other buildings on this tax lot (1): HPD violations 31 (5 open), DOB complaints 5 (0 open). Not counted in this building's flag.
 
@@ -2239,7 +2239,7 @@ Most recent 7 of 7:
 
 ### 🟡 143-25 41st Avenue
 
-BIN [4113661](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4113661); HPD building id 428396; tax lot (BBL) 4050230045; found by exact address
+BIN [4113661](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4113661); HPD building id [428396](https://hpdonline.nyc.gov/hpdonline/building/428396/overview); tax lot (BBL) 4050230045; found by exact address
 
 Heat history: 47 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-30. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2299,7 +2299,7 @@ Most recent 10 of 32:
 
 ### 🟡 132-25 Maple Avenue
 
-BIN [4443469](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4443469), [4615214](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4615214); HPD building id 677458; tax lot (BBL) 4051010061; found by exact address
+BIN [4443469](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4443469), [4615214](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4615214); HPD building id [677458](https://hpdonline.nyc.gov/hpdonline/building/677458/overview); tax lot (BBL) 4051010061; found by exact address
 
 Other buildings on this tax lot (1): HPD complaints 1 (0 open), HPD violations 15 (4 open), DOB complaints 1 (0 open). Not counted in this building's flag.
 
@@ -2348,7 +2348,7 @@ Most recent 2 of 2:
 
 ### 🟡 42-72 80th Street
 
-BIN [4037984](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4037984); HPD building id 483074; tax lot (BBL) 4015250047; found by exact address
+BIN [4037984](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4037984); HPD building id [483074](https://hpdonline.nyc.gov/hpdonline/building/483074/overview); tax lot (BBL) 4015250047; found by exact address
 
 Heat history: 27 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2405,7 +2405,7 @@ Most recent 5 of 5:
 
 ### 🟡 138-12 Northern Boulevard
 
-BIN [4113290](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4113290); HPD building id 998879; tax lot (BBL) 4050107505; found by exact address
+BIN [4113290](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4113290); HPD building id [998879](https://hpdonline.nyc.gov/hpdonline/building/998879/overview); tax lot (BBL) 4050107505; found by exact address
 
 Listed units:
 
@@ -2443,7 +2443,7 @@ Most recent 1 of 1:
 
 ### 🟡 21-05 33rd Street
 
-BIN [4442363](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4442363); HPD building id 420287; tax lot (BBL) 4008307501; found by exact address
+BIN [4442363](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4442363); HPD building id [420287](https://hpdonline.nyc.gov/hpdonline/building/420287/overview); tax lot (BBL) 4008307501; found by exact address
 
 Other buildings on this tax lot (15): HPD complaints 1 (0 open), HPD violations 18 (15 open), DOB complaints 6 (0 open). Not counted in this building's flag.
 
@@ -2478,7 +2478,7 @@ None since 2025-04-11.
 
 ### 🟡 34-32 91st Street
 
-BIN [4431423](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431423); HPD building id 810759; tax lot (BBL) 4014510012; found by exact address
+BIN [4431423](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431423); HPD building id [810759](https://hpdonline.nyc.gov/hpdonline/building/810759/overview); tax lot (BBL) 4014510012; found by exact address
 
 Other buildings on this tax lot (2): HPD violations 47 (19 open), DOB complaints 4 (1 open). Not counted in this building's flag.
 
@@ -2533,7 +2533,7 @@ Most recent 3 of 3:
 
 ### 🟡 2-33 50th Ave
 
-BIN [4436571](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4436571), [4625206](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4625206); HPD building id 1017523; tax lot (BBL) 4000170001; found by exact address
+BIN [4436571](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4436571), [4625206](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4625206); HPD building id [1017523](https://hpdonline.nyc.gov/hpdonline/building/1017523/overview); tax lot (BBL) 4000170001; found by exact address
 
 Listed units:
 
@@ -2627,7 +2627,7 @@ Most recent 7 of 7:
 
 ### 🟡 30-49 Crescent Street
 
-BIN [4006945](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4006945); HPD building id 411574; tax lot (BBL) 4005770019; found by exact address
+BIN [4006945](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4006945); HPD building id [411574](https://hpdonline.nyc.gov/hpdonline/building/411574/overview); tax lot (BBL) 4005770019; found by exact address
 
 Heat history: 52 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-14. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2678,7 +2678,7 @@ Most recent 3 of 3:
 
 ### 🟡 97-45 Queens Boulevard
 
-BIN [4050460](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4050460); HPD building id 690147; tax lot (BBL) 4020910001; found by exact address
+BIN [4050460](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4050460); HPD building id [690147](https://hpdonline.nyc.gov/hpdonline/building/690147/overview); tax lot (BBL) 4020910001; found by exact address
 
 Heat history: 19 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-13. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2723,7 +2723,7 @@ Most recent 4 of 4:
 
 ### 🟡 76-26 113th Street
 
-BIN [4052786](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052786); HPD building id 525869; tax lot (BBL) 4022660100; found by exact address
+BIN [4052786](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052786); HPD building id [525869](https://hpdonline.nyc.gov/hpdonline/building/525869/overview); tax lot (BBL) 4022660100; found by exact address
 
 Heat history: 25 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-10-21. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2761,7 +2761,7 @@ Most recent 4 of 4:
 
 ### 🟡 39-06 63rd Street
 
-BIN [4028396](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028396); HPD building id 454643; tax lot (BBL) 4012320075; found by exact address
+BIN [4028396](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028396); HPD building id [454643](https://hpdonline.nyc.gov/hpdonline/building/454643/overview); tax lot (BBL) 4012320075; found by exact address
 
 Heat history: 145 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-04-27. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2798,7 +2798,7 @@ Most recent 3 of 3:
 
 ### 🟡 91-09 Roosevelt Avenue
 
-BIN [4036413](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036413); HPD building id 1008597, 692879; tax lot (BBL) 4014790038, 4014797501; found by exact address
+BIN [4036413](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036413); HPD building id [1008597](https://hpdonline.nyc.gov/hpdonline/building/1008597/overview), [692879](https://hpdonline.nyc.gov/hpdonline/building/692879/overview); tax lot (BBL) 4014790038, 4014797501; found by exact address
 
 Listed units:
 
@@ -2838,7 +2838,7 @@ Most recent 1 of 1:
 
 ### 🟡 37-52 80th St / 37-52 80th Street
 
-BIN [4029970](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029970); HPD building id 483055; tax lot (BBL) 4012900029; found by exact address
+BIN [4029970](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029970); HPD building id [483055](https://hpdonline.nyc.gov/hpdonline/building/483055/overview); tax lot (BBL) 4012900029; found by exact address
 
 Heat history: 13 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2017-12-29. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2879,7 +2879,7 @@ Most recent 1 of 1:
 
 ### 🟡 21-35 27th Street
 
-BIN [4018295](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4018295); HPD building id 413258; tax lot (BBL) 4008570019; found by exact address
+BIN [4018295](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4018295); HPD building id [413258](https://hpdonline.nyc.gov/hpdonline/building/413258/overview); tax lot (BBL) 4008570019; found by exact address
 
 Heat history: 6 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2019-12-02. Flagged yellow for this regardless of the 18-month window above.
 
@@ -2912,7 +2912,7 @@ None since 2025-04-11.
 
 ### 🟡 61-35 98th Street
 
-BIN [4431962](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431962); HPD building id 946711; tax lot (BBL) 4020930001; found by exact address
+BIN [4431962](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431962); HPD building id [946711](https://hpdonline.nyc.gov/hpdonline/building/946711/overview); tax lot (BBL) 4020930001; found by exact address
 
 Other buildings on this tax lot (2): DOB complaints 4 (0 open). Not counted in this building's flag.
 
@@ -2980,7 +2980,7 @@ Most recent 2 of 2:
 
 ### 🟡 61-40 Saunders Street
 
-BIN [4071973](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4071973); HPD building id 693753; tax lot (BBL) 4030760022; found by exact address
+BIN [4071973](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4071973); HPD building id [693753](https://hpdonline.nyc.gov/hpdonline/building/693753/overview); tax lot (BBL) 4030760022; found by exact address
 
 Heat history: 72 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-04. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3012,7 +3012,7 @@ Most recent 1 of 1:
 
 ### 🟡 55-13 Junction Boulevard
 
-BIN [4047094](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4047094); HPD building id 669997; tax lot (BBL) 4019030022; found by exact address
+BIN [4047094](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4047094); HPD building id [669997](https://hpdonline.nyc.gov/hpdonline/building/669997/overview); tax lot (BBL) 4019030022; found by exact address
 
 Heat history: 7 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2011-03-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3044,7 +3044,7 @@ Most recent 1 of 1:
 
 ### 🟡 46-02 70th Street
 
-BIN [3146088](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=3146088), [4619357](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4619357); HPD building id 690015, 995644; tax lot (BBL) 3058810126, 4024327501; found by exact address
+BIN [3146088](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=3146088), [4619357](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4619357); HPD building id [690015](https://hpdonline.nyc.gov/hpdonline/building/690015/overview), [995644](https://hpdonline.nyc.gov/hpdonline/building/995644/overview); tax lot (BBL) 3058810126, 4024327501; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-01-26. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3076,7 +3076,7 @@ None since 2025-04-11.
 
 ### 🟡 41-31 60th Street
 
-BIN [4031437](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4031437); HPD building id 450960; tax lot (BBL) 4013350080; found by exact address
+BIN [4031437](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4031437); HPD building id [450960](https://hpdonline.nyc.gov/hpdonline/building/450960/overview); tax lot (BBL) 4013350080; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-11-30. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3139,7 +3139,7 @@ Most recent 1 of 1:
 
 ### 🟡 29-22 Northern Blvd
 
-BIN [4596911](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4596911); HPD building id 984204; tax lot (BBL) 4002397501; found by exact address
+BIN [4596911](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4596911); HPD building id [984204](https://hpdonline.nyc.gov/hpdonline/building/984204/overview); tax lot (BBL) 4002397501; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-12-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3172,7 +3172,7 @@ Most recent 1 of 1:
 
 ### 🟡 80-20 Broadway
 
-BIN [4038015](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038015); HPD building id 640775; tax lot (BBL) 4015260001; found by exact address
+BIN [4038015](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038015); HPD building id [640775](https://hpdonline.nyc.gov/hpdonline/building/640775/overview); tax lot (BBL) 4015260001; found by exact address
 
 Heat history: 142 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-17. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3223,7 +3223,7 @@ Most recent 1 of 1:
 
 ### 🟡 34-09 83rd Street
 
-BIN [4035514](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035514); HPD building id 421473; tax lot (BBL) 4014440001; found by exact address
+BIN [4035514](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035514); HPD building id [421473](https://hpdonline.nyc.gov/hpdonline/building/421473/overview); tax lot (BBL) 4014440001; found by exact address
 
 Heat history: 89 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2025-11-10. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3274,7 +3274,7 @@ None since 2025-04-11.
 
 ### 🟡 99-34 67th Road
 
-BIN [4075094](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4075094); HPD building id 460449; tax lot (BBL) 4031697501; found by exact address
+BIN [4075094](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4075094); HPD building id [460449](https://hpdonline.nyc.gov/hpdonline/building/460449/overview); tax lot (BBL) 4031697501; found by exact address
 
 Heat history: 59 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2024-04-13. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3320,7 +3320,7 @@ Most recent 1 of 1:
 
 ### 🟡 88-10 34th Avenue
 
-BIN [4035650](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035650); HPD building id 421487; tax lot (BBL) 4014490001; found by exact address
+BIN [4035650](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035650); HPD building id [421487](https://hpdonline.nyc.gov/hpdonline/building/421487/overview); tax lot (BBL) 4014490001; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-11-01. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3366,7 +3366,7 @@ Most recent 4 of 4:
 
 ### 🟡 100-11 67th Road
 
-BIN [4075121](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4075121); HPD building id 460250; tax lot (BBL) 4031700001; found by exact address
+BIN [4075121](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4075121); HPD building id [460250](https://hpdonline.nyc.gov/hpdonline/building/460250/overview); tax lot (BBL) 4031700001; found by exact address
 
 Heat history: 47 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-10-17. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3411,7 +3411,7 @@ Most recent 1 of 1:
 
 ### 🟡 109-05 72nd Avenue
 
-BIN [4052425](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052425); HPD building id 468159; tax lot (BBL) 4022250001; found by exact address
+BIN [4052425](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052425); HPD building id [468159](https://hpdonline.nyc.gov/hpdonline/building/468159/overview); tax lot (BBL) 4022250001; found by exact address
 
 Heat history: 40 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-20. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3455,7 +3455,7 @@ Most recent 1 of 1:
 
 ### 🟡 4705 Center Blvd
 
-BIN [4534604](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4534604); HPD building id 885423; tax lot (BBL) 4000210060; found by exact address
+BIN [4534604](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4534604); HPD building id [885423](https://hpdonline.nyc.gov/hpdonline/building/885423/overview); tax lot (BBL) 4000210060; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-26. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3495,7 +3495,7 @@ Most recent 5 of 5:
 
 ### 🟡 43-17 48th Street
 
-BIN [4001294](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001294); HPD building id 549004; tax lot (BBL) 4001390011; found by exact address
+BIN [4001294](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001294); HPD building id [549004](https://hpdonline.nyc.gov/hpdonline/building/549004/overview); tax lot (BBL) 4001390011; found by exact address
 
 Heat history: 16 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2014-02-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3531,7 +3531,7 @@ None since 2025-04-11.
 
 ### 🟡 29-28 41st Avenue
 
-BIN [4005043](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005043); HPD building id 415802; tax lot (BBL) 4004180014; found by exact address
+BIN [4005043](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005043); HPD building id [415802](https://hpdonline.nyc.gov/hpdonline/building/415802/overview); tax lot (BBL) 4004180014; found by exact address
 
 Heat history: 11 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-04-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3575,7 +3575,7 @@ Most recent 3 of 3:
 
 ### 🟡 41-17 Crescent St / 4117 Crescent St
 
-BIN [4540104](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4540104); HPD building id 911008; tax lot (BBL) 4004157502; found by exact address
+BIN [4540104](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4540104); HPD building id [911008](https://hpdonline.nyc.gov/hpdonline/building/911008/overview); tax lot (BBL) 4004157502; found by exact address
 
 Heat history: 10 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-04-19. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3614,7 +3614,7 @@ Most recent 4 of 4:
 
 ### 🟡 142-27 Barclay Avenue
 
-BIN [4114654](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114654); HPD building id 630365; tax lot (BBL) 4050460037; found by exact address
+BIN [4114654](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114654); HPD building id [630365](https://hpdonline.nyc.gov/hpdonline/building/630365/overview); tax lot (BBL) 4050460037; found by exact address
 
 Heat history: 9 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2019-10-27. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3655,7 +3655,7 @@ Most recent 1 of 1:
 
 ### 🟡 86-11 34th Avenue
 
-BIN [4035326](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035326); HPD building id 421484; tax lot (BBL) 4014340029; found by exact address
+BIN [4035326](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4035326); HPD building id [421484](https://hpdonline.nyc.gov/hpdonline/building/421484/overview); tax lot (BBL) 4014340029; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-03-05. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3691,7 +3691,7 @@ Most recent 3 of 3:
 
 ### 🟡 139-55 35th Avenue
 
-BIN [4112965](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4112965); HPD building id 422073; tax lot (BBL) 4049940078; found by exact address
+BIN [4112965](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4112965); HPD building id [422073](https://hpdonline.nyc.gov/hpdonline/building/422073/overview); tax lot (BBL) 4049940078; found by exact address
 
 Heat history: 16 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-04-26. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3732,7 +3732,7 @@ Most recent 2 of 2:
 
 ### 🟡 12-07 Jackson Avenue
 
-BIN [4000511](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4000511); HPD building id 667081; tax lot (BBL) 4000600008; found by exact address
+BIN [4000511](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4000511); HPD building id [667081](https://hpdonline.nyc.gov/hpdonline/building/667081/overview); tax lot (BBL) 4000600008; found by exact address
 
 Heat history: 21 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-03-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3774,7 +3774,7 @@ Most recent 2 of 2:
 
 ### 🟡 104-60 Queens Boulevard
 
-BIN [4433859](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4433859); HPD building id 811765; tax lot (BBL) 4031750001; found by exact address
+BIN [4433859](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4433859); HPD building id [811765](https://hpdonline.nyc.gov/hpdonline/building/811765/overview); tax lot (BBL) 4031750001; found by exact address
 
 Other buildings on this tax lot (2): HPD violations 12 (7 open), DOB complaints 11 (0 open). Not counted in this building's flag.
 
@@ -3818,7 +3818,7 @@ Most recent 1 of 1:
 
 ### 🟡 72-35 112th Street
 
-BIN [4052716](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052716); HPD building id 524743; tax lot (BBL) 4022500001; found by exact address
+BIN [4052716](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052716); HPD building id [524743](https://hpdonline.nyc.gov/hpdonline/building/524743/overview); tax lot (BBL) 4022500001; found by exact address
 
 Heat history: 24 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-10-04. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3860,7 +3860,7 @@ Most recent 2 of 2:
 
 ### 🟡 61-45 98th Street
 
-BIN [4431966](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431966); HPD building id 509552; tax lot (BBL) 4020930245; found by exact address
+BIN [4431966](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431966); HPD building id [509552](https://hpdonline.nyc.gov/hpdonline/building/509552/overview); tax lot (BBL) 4020930245; found by exact address
 
 Other buildings on this tax lot (1): HPD violations 2 (2 open), DOB complaints 1 (0 open). Not counted in this building's flag.
 
@@ -3896,7 +3896,7 @@ Most recent 2 of 2:
 
 ### 🟡 83-02 Cornish Avenue
 
-BIN [4038658](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038658); HPD building id 646492; tax lot (BBL) 4015440001; found by exact address
+BIN [4038658](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038658); HPD building id [646492](https://hpdonline.nyc.gov/hpdonline/building/646492/overview); tax lot (BBL) 4015440001; found by exact address
 
 Heat history: 9 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-08. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3930,7 +3930,7 @@ None since 2025-04-11.
 
 ### 🟡 66-15 Wetherole Street
 
-BIN [4074677](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4074677); HPD building id 703814; tax lot (BBL) 4031570101; found by exact address
+BIN [4074677](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4074677); HPD building id [703814](https://hpdonline.nyc.gov/hpdonline/building/703814/overview); tax lot (BBL) 4031570101; found by exact address
 
 Heat history: 74 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2025-11-09. Flagged yellow for this regardless of the 18-month window above.
 
@@ -3970,7 +3970,7 @@ Most recent 1 of 1:
 
 ### 🟡 86-11 Whitney Avenue
 
-BIN [4039024](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4039024); HPD building id 704141; tax lot (BBL) 4015600029; found by exact address
+BIN [4039024](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4039024); HPD building id [704141](https://hpdonline.nyc.gov/hpdonline/building/704141/overview); tax lot (BBL) 4015600029; found by exact address
 
 Heat history: 16 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-10-04. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4004,7 +4004,7 @@ None since 2025-04-11.
 
 ### 🟡 41-40 Union Street
 
-BIN [4114294](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114294); HPD building id 630361; tax lot (BBL) 4050457501; found by exact address
+BIN [4114294](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114294); HPD building id [630361](https://hpdonline.nyc.gov/hpdonline/building/630361/overview); tax lot (BBL) 4050457501; found by exact address
 
 Heat history: 30 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-20. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4038,7 +4038,7 @@ Most recent 2 of 2:
 
 ### 🟡 78-11 Kew Forest Lane
 
-BIN [4079999](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4079999); HPD building id 671035; tax lot (BBL) 4033470054; found by exact address
+BIN [4079999](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4079999); HPD building id [671035](https://hpdonline.nyc.gov/hpdonline/building/671035/overview); tax lot (BBL) 4033470054; found by exact address
 
 Heat history: 42 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2026-04-27. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4078,7 +4078,7 @@ None since 2025-04-11.
 
 ### 🟡 59-21 Calloway Street
 
-BIN [4047929](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4047929); HPD building id 642305; tax lot (BBL) 4019490090; found by exact address
+BIN [4047929](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4047929); HPD building id [642305](https://hpdonline.nyc.gov/hpdonline/building/642305/overview); tax lot (BBL) 4019490090; found by exact address
 
 Heat history: 17 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-12-27. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4118,7 +4118,7 @@ None since 2025-04-11.
 
 ### 🟡 6264 Saunders St
 
-BIN [4072062](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4072062); HPD building id 693755; tax lot (BBL) 4030790076; found by exact address
+BIN [4072062](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4072062); HPD building id [693755](https://hpdonline.nyc.gov/hpdonline/building/693755/overview); tax lot (BBL) 4030790076; found by exact address
 
 Heat history: 11 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-14. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4158,7 +4158,7 @@ Most recent 1 of 1:
 
 ### 🟡 66-20 Wetherole Street
 
-BIN [4074656](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4074656); HPD building id 703815; tax lot (BBL) 4031560114; found by exact address
+BIN [4074656](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4074656); HPD building id [703815](https://hpdonline.nyc.gov/hpdonline/building/703815/overview); tax lot (BBL) 4031560114; found by exact address
 
 Heat history: 43 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-01-12. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4198,7 +4198,7 @@ Most recent 1 of 1:
 
 ### 🟡 73-44 Austin Street
 
-BIN [4078760](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4078760); HPD building id 629890; tax lot (BBL) 4032910016; found by exact address
+BIN [4078760](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4078760); HPD building id [629890](https://hpdonline.nyc.gov/hpdonline/building/629890/overview); tax lot (BBL) 4032910016; found by exact address
 
 Heat history: 6 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-10-17. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4232,7 +4232,7 @@ Most recent 2 of 2:
 
 ### 🟡 73-20 Austin Street
 
-BIN [4078759](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4078759); HPD building id 629888; tax lot (BBL) 4032910001; found by exact address
+BIN [4078759](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4078759); HPD building id [629888](https://hpdonline.nyc.gov/hpdonline/building/629888/overview); tax lot (BBL) 4032910001; found by exact address
 
 Heat history: 49 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2019-03-05. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4266,7 +4266,7 @@ Most recent 2 of 2:
 
 ### 🟡 109-20 Queens Boulevard
 
-BIN [4078025](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4078025); HPD building id 689807; tax lot (BBL) 4032587501; found by exact address
+BIN [4078025](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4078025); HPD building id [689807](https://hpdonline.nyc.gov/hpdonline/building/689807/overview); tax lot (BBL) 4032587501; found by exact address
 
 Heat history: 17 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2019-01-25. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4300,7 +4300,7 @@ Most recent 2 of 2:
 
 ### 🟡 34-21 77th Street
 
-BIN [4029131](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029131); HPD building id 477286; tax lot (BBL) 4012640047; found by exact address
+BIN [4029131](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029131); HPD building id [477286](https://hpdonline.nyc.gov/hpdonline/building/477286/overview); tax lot (BBL) 4012640047; found by exact address
 
 Heat history: 167 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2025-01-14. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4333,7 +4333,7 @@ None since 2025-04-11.
 
 ### 🟡 81-31 Baxter Avenue
 
-BIN [4036884](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036884); HPD building id 630620; tax lot (BBL) 4014920032; found by exact address
+BIN [4036884](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036884); HPD building id [630620](https://hpdonline.nyc.gov/hpdonline/building/630620/overview); tax lot (BBL) 4014920032; found by exact address
 
 Heat history: 70 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-17. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4365,7 +4365,7 @@ None since 2025-04-11.
 
 ### 🟡 42-25 80th Street
 
-BIN [4038035](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038035); HPD building id 483070; tax lot (BBL) 4015267501; found by exact address
+BIN [4038035](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038035); HPD building id [483070](https://hpdonline.nyc.gov/hpdonline/building/483070/overview); tax lot (BBL) 4015267501; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-02-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4397,7 +4397,7 @@ None since 2025-04-11.
 
 ### 🟡 51-40 30th Avenue
 
-BIN [4431254](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431254); HPD building id 810325; tax lot (BBL) 4011110001; found by exact address
+BIN [4431254](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431254); HPD building id [810325](https://hpdonline.nyc.gov/hpdonline/building/810325/overview); tax lot (BBL) 4011110001; found by exact address
 
 Other buildings on this tax lot (9): HPD violations 1 (1 open), DOB complaints 3 (1 open). Not counted in this building's flag.
 
@@ -4431,7 +4431,7 @@ Most recent 1 of 1:
 
 ### 🟡 65-20 Booth Street
 
-BIN [4072540](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4072540); HPD building id 638925; tax lot (BBL) 4030977505; found by exact address
+BIN [4072540](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4072540); HPD building id [638925](https://hpdonline.nyc.gov/hpdonline/building/638925/overview); tax lot (BBL) 4030977505; found by exact address
 
 Heat history: 15 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-02-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4463,7 +4463,7 @@ Most recent 1 of 1:
 
 ### 🟡 90-02 Queens Boulevard
 
-BIN [4064869](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4064869); HPD building id 690108; tax lot (BBL) 4028577501; found by exact address
+BIN [4064869](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4064869); HPD building id [690108](https://hpdonline.nyc.gov/hpdonline/building/690108/overview); tax lot (BBL) 4028577501; found by exact address
 
 Heat history: 24 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-02-10. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4496,7 +4496,7 @@ Most recent 1 of 1:
 
 ### 🟡 94-01 64th Road
 
-BIN [4072461](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4072461); HPD building id 455743; tax lot (BBL) 4030950081; found by exact address
+BIN [4072461](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4072461); HPD building id [455743](https://hpdonline.nyc.gov/hpdonline/building/455743/overview); tax lot (BBL) 4030950081; found by exact address
 
 Heat history: 28 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-01. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4528,7 +4528,7 @@ Most recent 1 of 1:
 
 ### 🟡 42-25 65th Place
 
-BIN [4031733](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4031733); HPD building id 457071; tax lot (BBL) 4013430031; found by exact address
+BIN [4031733](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4031733); HPD building id [457071](https://hpdonline.nyc.gov/hpdonline/building/457071/overview); tax lot (BBL) 4013430031; found by exact address
 
 Heat history: 50 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-14. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4560,7 +4560,7 @@ Most recent 1 of 1:
 
 ### 🟡 4-37 27th Avenue
 
-BIN [4020652](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020652); HPD building id 413170; tax lot (BBL) 4009090055; found by exact address
+BIN [4020652](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020652); HPD building id [413170](https://hpdonline.nyc.gov/hpdonline/building/413170/overview); tax lot (BBL) 4009090055; found by exact address
 
 Heat history: 8 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2016-02-11. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4592,7 +4592,7 @@ Most recent 1 of 1:
 
 ### 🟡 41-25 44th Street
 
-BIN [4001750](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001750); HPD building id 433025; tax lot (BBL) 4001570009; found by exact address
+BIN [4001750](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001750); HPD building id [433025](https://hpdonline.nyc.gov/hpdonline/building/433025/overview); tax lot (BBL) 4001570009; found by exact address
 
 Heat history: 11 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2015-02-09. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4624,7 +4624,7 @@ None since 2025-04-11.
 
 ### 🟡 30-55 Vernon Boulevard
 
-BIN [4005484](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005484); HPD building id 702478; tax lot (BBL) 4005050014; found by exact address
+BIN [4005484](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005484); HPD building id [702478](https://hpdonline.nyc.gov/hpdonline/building/702478/overview); tax lot (BBL) 4005050014; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-12-24. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4656,7 +4656,7 @@ Most recent 1 of 1:
 
 ### 🟡 89-20 55th Avenue
 
-BIN [4045396](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4045396); HPD building id 443298; tax lot (BBL) 4018410001; found by exact address
+BIN [4045396](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4045396); HPD building id [443298](https://hpdonline.nyc.gov/hpdonline/building/443298/overview); tax lot (BBL) 4018410001; found by exact address
 
 Heat history: 204 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-14. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4688,7 +4688,7 @@ Most recent 1 of 1:
 
 ### 🟡 131-03 40th Road
 
-BIN [4616038](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4616038); HPD building id 981839; tax lot (BBL) 4050667506; found by exact address
+BIN [4616038](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4616038); HPD building id [981839](https://hpdonline.nyc.gov/hpdonline/building/981839/overview); tax lot (BBL) 4050667506; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-03-20. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4720,7 +4720,7 @@ Most recent 1 of 1:
 
 ### 🟡 37-55 77th Street
 
-BIN [4029907](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029907); HPD building id 477319; tax lot (BBL) 4012880051; found by exact address
+BIN [4029907](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029907); HPD building id [477319](https://hpdonline.nyc.gov/hpdonline/building/477319/overview); tax lot (BBL) 4012880051; found by exact address
 
 Heat history: 63 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4752,7 +4752,7 @@ Most recent 1 of 1:
 
 ### 🟡 30-12 Astoria Boulevard
 
-BIN [4007823](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007823); HPD building id 628952; tax lot (BBL) 4005980035; found by exact address
+BIN [4007823](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007823); HPD building id [628952](https://hpdonline.nyc.gov/hpdonline/building/628952/overview); tax lot (BBL) 4005980035; found by exact address
 
 Heat history: 4 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-10-04. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4784,7 +4784,7 @@ None since 2025-04-11.
 
 ### 🟡 25-50 30th Road
 
-BIN [4006949](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4006949); HPD building id 416627; tax lot (BBL) 4005770043; found by exact address
+BIN [4006949](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4006949); HPD building id [416627](https://hpdonline.nyc.gov/hpdonline/building/416627/overview); tax lot (BBL) 4005770043; found by exact address
 
 Heat history: 65 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2025-11-10. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4816,7 +4816,7 @@ None since 2025-04-11.
 
 ### 🟡 94-30 60th Avenue
 
-BIN [4047305](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4047305); HPD building id 449739; tax lot (BBL) 4019137501; found by exact address
+BIN [4047305](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4047305); HPD building id [449739](https://hpdonline.nyc.gov/hpdonline/building/449739/overview); tax lot (BBL) 4019137501; found by exact address
 
 Heat history: 6 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-11-28. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4848,7 +4848,7 @@ Most recent 1 of 1:
 
 ### 🟡 105-24 63rd Drive
 
-BIN [4432057](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432057); HPD building id 965187, 994678; tax lot (BBL) 4021480001; found by exact address
+BIN [4432057](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432057); HPD building id [965187](https://hpdonline.nyc.gov/hpdonline/building/965187/overview), [994678](https://hpdonline.nyc.gov/hpdonline/building/994678/overview); tax lot (BBL) 4021480001; found by exact address
 
 Other buildings on this tax lot (2): no records. Not counted in this building's flag.
 
@@ -4864,7 +4864,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 40-20 69th Street
 
-BIN [4030317](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030317); HPD building id 464364; tax lot (BBL) 4013000040; found by exact address
+BIN [4030317](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030317); HPD building id [464364](https://hpdonline.nyc.gov/hpdonline/building/464364/overview); tax lot (BBL) 4013000040; found by exact address
 
 Heat history: 19 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-01-30. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4878,7 +4878,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 18-22 21st Avenue
 
-BIN [4431169](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431169); HPD building id 406178; tax lot (BBL) 4008960053; found by exact address
+BIN [4431169](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431169); HPD building id [406178](https://hpdonline.nyc.gov/hpdonline/building/406178/overview); tax lot (BBL) 4008960053; found by exact address
 
 Other buildings on this tax lot (5): HPD violations 6 (1 open). Not counted in this building's flag.
 
@@ -4894,7 +4894,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 84-20 51st Avenue
 
-BIN [4038747](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038747); HPD building id 440467; tax lot (BBL) 4015480006; found by exact address
+BIN [4038747](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038747); HPD building id [440467](https://hpdonline.nyc.gov/hpdonline/building/440467/overview); tax lot (BBL) 4015480006; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2012-12-02. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4908,7 +4908,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 100-25 Queens Boulevard
 
-BIN [4307726](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4307726); HPD building id 689766; tax lot (BBL) 4021197501; found by exact address
+BIN [4307726](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4307726); HPD building id [689766](https://hpdonline.nyc.gov/hpdonline/building/689766/overview); tax lot (BBL) 4021197501; found by exact address
 
 Heat history: 23 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2019-11-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4922,7 +4922,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 143-36 Barclay Ave / 14336 Barclay Ave
 
-BIN [4114708](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114708); HPD building id 630369; tax lot (BBL) 4050490019; found by exact address
+BIN [4114708](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114708); HPD building id [630369](https://hpdonline.nyc.gov/hpdonline/building/630369/overview); tax lot (BBL) 4050490019; found by exact address
 
 Heat history: 78 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-01-17. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4938,7 +4938,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 23-11 41st Street / 2311 41st St
 
-BIN [4015279](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4015279); HPD building id 429146; tax lot (BBL) 4007920073; found by exact address
+BIN [4015279](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4015279); HPD building id [429146](https://hpdonline.nyc.gov/hpdonline/building/429146/overview); tax lot (BBL) 4007920073; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2017-11-14. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4953,7 +4953,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 25-28 42nd Street
 
-BIN [4011470](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4011470); HPD building id 430330; tax lot (BBL) 4006850056; found by exact address
+BIN [4011470](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4011470); HPD building id [430330](https://hpdonline.nyc.gov/hpdonline/building/430330/overview); tax lot (BBL) 4006850056; found by exact address
 
 Heat history: 17 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-13. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4967,7 +4967,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 34-09 9th Street
 
-BIN [4003857](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4003857); HPD building id 400516; tax lot (BBL) 4003240023; found by exact address
+BIN [4003857](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4003857); HPD building id [400516](https://hpdonline.nyc.gov/hpdonline/building/400516/overview); tax lot (BBL) 4003240023; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2013-03-28. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4981,7 +4981,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 25-54 38th St / 25-54 38th Street
 
-BIN [4010208](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4010208); HPD building id 426285; tax lot (BBL) 4006530080; found by exact address
+BIN [4010208](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4010208); HPD building id [426285](https://hpdonline.nyc.gov/hpdonline/building/426285/overview); tax lot (BBL) 4006530080; found by exact address
 
 Heat history: 29 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-02-03. Flagged yellow for this regardless of the 18-month window above.
 
@@ -4996,7 +4996,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 28-40 34th Street
 
-BIN [4009148](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4009148); HPD building id 421671; tax lot (BBL) 4006270036; found by exact address
+BIN [4009148](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4009148); HPD building id [421671](https://hpdonline.nyc.gov/hpdonline/building/421671/overview); tax lot (BBL) 4006270036; found by exact address
 
 Heat history: 6 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2016-02-02. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5010,7 +5010,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 33-25 Junction Boulevard
 
-BIN [4042371](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4042371); HPD building id 669719; tax lot (BBL) 4017100065; found by exact address
+BIN [4042371](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4042371); HPD building id [669719](https://hpdonline.nyc.gov/hpdonline/building/669719/overview); tax lot (BBL) 4017100065; found by exact address
 
 Other buildings on this tax lot (2): no records. Not counted in this building's flag.
 
@@ -5026,7 +5026,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 31-70 34th Street
 
-BIN [4008924](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008924); HPD building id 421764; tax lot (BBL) 4006230071; found by exact address
+BIN [4008924](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008924); HPD building id [421764](https://hpdonline.nyc.gov/hpdonline/building/421764/overview); tax lot (BBL) 4006230071; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2010-11-03. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5040,7 +5040,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 51-20 Reeder Street
 
-BIN [4038749](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038749); HPD building id 690617; tax lot (BBL) 4015480019; found by exact address
+BIN [4038749](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4038749); HPD building id [690617](https://hpdonline.nyc.gov/hpdonline/building/690617/overview); tax lot (BBL) 4015480019; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2012-01-29. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5054,7 +5054,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 90-32 53rd Avenue
 
-BIN [4431626](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431626); HPD building id 442033; tax lot (BBL) 4018550013; found by exact address
+BIN [4431626](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431626); HPD building id [442033](https://hpdonline.nyc.gov/hpdonline/building/442033/overview); tax lot (BBL) 4018550013; found by exact address
 
 Other buildings on this tax lot (1): HPD violations 1 (1 open). Not counted in this building's flag.
 
@@ -5070,7 +5070,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 110-35 72nd Road
 
-BIN [4052582](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052582); HPD building id 468869; tax lot (BBL) 4022360043; found by exact address
+BIN [4052582](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052582); HPD building id [468869](https://hpdonline.nyc.gov/hpdonline/building/468869/overview); tax lot (BBL) 4022360043; found by exact address
 
 Other buildings on this tax lot (1): DOB complaints 1 (0 open). Not counted in this building's flag.
 
@@ -5086,7 +5086,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 142-19 Barclay Avenue
 
-BIN [4114655](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114655); HPD building id 630364; tax lot (BBL) 4050460040; found by exact address
+BIN [4114655](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4114655); HPD building id [630364](https://hpdonline.nyc.gov/hpdonline/building/630364/overview); tax lot (BBL) 4050460040; found by exact address
 
 Heat history: 9 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-11-09. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5100,7 +5100,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 30-59 Steinway Street
 
-BIN [4011240](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4011240); HPD building id 697427; tax lot (BBL) 4006800022; found by exact address
+BIN [4011240](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4011240); HPD building id [697427](https://hpdonline.nyc.gov/hpdonline/building/697427/overview); tax lot (BBL) 4006800022; found by exact address
 
 Other buildings on this tax lot (1): no records. Not counted in this building's flag.
 
@@ -5116,7 +5116,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 37-58 86th St / 37-58 86th Street
 
-BIN [4036247](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036247); HPD building id 492876; tax lot (BBL) 4014730033; found by exact address
+BIN [4036247](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036247); HPD building id [492876](https://hpdonline.nyc.gov/hpdonline/building/492876/overview); tax lot (BBL) 4014730033; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-03-16. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5131,7 +5131,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 39-11 62nd Street
 
-BIN [4028386](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028386); HPD building id 453283; tax lot (BBL) 4012320064; found by exact address
+BIN [4028386](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028386); HPD building id [453283](https://hpdonline.nyc.gov/hpdonline/building/453283/overview); tax lot (BBL) 4012320064; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-12-21. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5145,7 +5145,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 41-12 53rd Street
 
-BIN [4030790](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030790); HPD building id 442341; tax lot (BBL) 4013150058; found by exact address
+BIN [4030790](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030790); HPD building id [442341](https://hpdonline.nyc.gov/hpdonline/building/442341/overview); tax lot (BBL) 4013150058; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-21. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5159,7 +5159,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 12-28 30th Road
 
-BIN [4005700](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005700); HPD building id 416559; tax lot (BBL) 4005160038; found by exact address
+BIN [4005700](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005700); HPD building id [416559](https://hpdonline.nyc.gov/hpdonline/building/416559/overview); tax lot (BBL) 4005160038; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-01-04. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5173,7 +5173,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 40-30 73rd Street
 
-BIN [4030428](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030428); HPD building id 470595; tax lot (BBL) 4013040057; found by exact address
+BIN [4030428](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4030428); HPD building id [470595](https://hpdonline.nyc.gov/hpdonline/building/470595/overview); tax lot (BBL) 4013040057; found by exact address
 
 Heat history: 10 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-02-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5187,7 +5187,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 67-40 Yellowstone Boulevard
 
-BIN [4051266](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051266); HPD building id 706054; tax lot (BBL) 4021350036; found by exact address
+BIN [4051266](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051266); HPD building id [706054](https://hpdonline.nyc.gov/hpdonline/building/706054/overview); tax lot (BBL) 4021350036; found by exact address
 
 Heat history: 16 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-04-28. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5201,7 +5201,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 45-01 43rd Ave / 45-01 43rd Avenue
 
-BIN [4001734](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001734); HPD building id 431212; tax lot (BBL) 4001560003; found by exact address
+BIN [4001734](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001734); HPD building id [431212](https://hpdonline.nyc.gov/hpdonline/building/431212/overview); tax lot (BBL) 4001560003; found by exact address
 
 Heat history: 107 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-29. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5216,7 +5216,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 102-20 67th Drive
 
-BIN [4051271](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051271); HPD building id 459914; tax lot (BBL) 4021360013; found by exact address
+BIN [4051271](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051271); HPD building id [459914](https://hpdonline.nyc.gov/hpdonline/building/459914/overview); tax lot (BBL) 4021360013; found by exact address
 
 Heat history: 3 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2014-03-22. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5230,7 +5230,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 105-38 63rd Drive
 
-BIN [4432058](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432058); HPD building id 810481; tax lot (BBL) 4021480001; found by exact address
+BIN [4432058](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432058); HPD building id [810481](https://hpdonline.nyc.gov/hpdonline/building/810481/overview); tax lot (BBL) 4021480001; found by exact address
 
 Other buildings on this tax lot (2): no records. Not counted in this building's flag.
 
@@ -5246,7 +5246,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 34-20 74th Street
 
-BIN [4028932](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028932); HPD building id 471371; tax lot (BBL) 4012600016; found by exact address
+BIN [4028932](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028932); HPD building id [471371](https://hpdonline.nyc.gov/hpdonline/building/471371/overview); tax lot (BBL) 4012600016; found by exact address
 
 Heat history: 44 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-12-19. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5260,7 +5260,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 43-10 44th St / 43-10 44th Street
 
-BIN [4001932](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001932); HPD building id 433033; tax lot (BBL) 4001620028; found by exact address
+BIN [4001932](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001932); HPD building id [433033](https://hpdonline.nyc.gov/hpdonline/building/433033/overview); tax lot (BBL) 4001620028; found by exact address
 
 Heat history: 5 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-10-21. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5275,7 +5275,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 31-30 35th Street / 3130 35th St
 
-BIN [4008975](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008975); HPD building id 422959; tax lot (BBL) 4006240054; found by exact address
+BIN [4008975](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008975); HPD building id [422959](https://hpdonline.nyc.gov/hpdonline/building/422959/overview); tax lot (BBL) 4006240054; found by exact address
 
 Heat history: 28 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-01-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5290,7 +5290,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 34-27 43rd Street
 
-BIN [4012302](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012302); HPD building id 432103; tax lot (BBL) 4007030020; found by exact address
+BIN [4012302](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012302); HPD building id [432103](https://hpdonline.nyc.gov/hpdonline/building/432103/overview); tax lot (BBL) 4007030020; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2015-11-22. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5304,7 +5304,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 45-45 46th Street
 
-BIN [4001555](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001555); HPD building id 436044; tax lot (BBL) 4001530007; found by exact address
+BIN [4001555](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001555); HPD building id [436044](https://hpdonline.nyc.gov/hpdonline/building/436044/overview); tax lot (BBL) 4001530007; found by exact address
 
 Heat history: 28 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-05-09. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5318,7 +5318,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 45-41 47th Street
 
-BIN [4001524](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001524); HPD building id 437438; tax lot (BBL) 4001510040; found by exact address
+BIN [4001524](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4001524); HPD building id [437438](https://hpdonline.nyc.gov/hpdonline/building/437438/overview); tax lot (BBL) 4001510040; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2019-12-19. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5332,7 +5332,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 25-66 Steinway Street
 
-BIN [4010291](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4010291); HPD building id 697326; tax lot (BBL) 4006540090; found by exact address
+BIN [4010291](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4010291); HPD building id [697326](https://hpdonline.nyc.gov/hpdonline/building/697326/overview); tax lot (BBL) 4006540090; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-11-23. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5346,7 +5346,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 34-05 34th Street
 
-BIN [4009627](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4009627); HPD building id 421822; tax lot (BBL) 4006420026; found by exact address
+BIN [4009627](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4009627); HPD building id [421822](https://hpdonline.nyc.gov/hpdonline/building/421822/overview); tax lot (BBL) 4006420026; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-11-18. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5360,7 +5360,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 34-40 79th Street
 
-BIN [4029134](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029134); HPD building id 481095; tax lot (BBL) 4012650030; found by exact address
+BIN [4029134](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029134); HPD building id [481095](https://hpdonline.nyc.gov/hpdonline/building/481095/overview); tax lot (BBL) 4012650030; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2013-12-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5374,7 +5374,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 69-01 35th Avenue
 
-BIN [4028794](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028794); HPD building id 422455; tax lot (BBL) 4012560035; found by exact address
+BIN [4028794](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4028794); HPD building id [422455](https://hpdonline.nyc.gov/hpdonline/building/422455/overview); tax lot (BBL) 4012560035; found by exact address
 
 Heat history: 4 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-11-18. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5388,7 +5388,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 68-64 Yellowstone Boulevard
 
-BIN [4051286](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051286); HPD building id 706063; tax lot (BBL) 4021390026; found by exact address
+BIN [4051286](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4051286); HPD building id [706063](https://hpdonline.nyc.gov/hpdonline/building/706063/overview); tax lot (BBL) 4021390026; found by exact address
 
 Heat history: 99 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-28. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5402,7 +5402,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 28-42 29th Street / 2842 29th St
 
-BIN [4006890](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4006890); HPD building id 415528; tax lot (BBL) 4005750020; found by exact address
+BIN [4006890](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4006890); HPD building id [415528](https://hpdonline.nyc.gov/hpdonline/building/415528/overview); tax lot (BBL) 4005750020; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2014-03-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5417,7 +5417,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 44-14 Newtown Road
 
-BIN [4012495](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012495); HPD building id 683938; tax lot (BBL) 4007090028; found by exact address
+BIN [4012495](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012495); HPD building id [683938](https://hpdonline.nyc.gov/hpdonline/building/683938/overview); tax lot (BBL) 4007090028; found by exact address
 
 Heat history: 6 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-04-10. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5431,7 +5431,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 14-34 31st Avenue
 
-BIN [4005897](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005897); HPD building id 929295; tax lot (BBL) 4005330037; found by exact address
+BIN [4005897](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4005897); HPD building id [929295](https://hpdonline.nyc.gov/hpdonline/building/929295/overview); tax lot (BBL) 4005330037; found by exact address
 
 Heat history: 4 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2020-01-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5445,7 +5445,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 111-50 76th Road
 
-BIN [4079914](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4079914); HPD building id 474047; tax lot (BBL) 4033410016; found by exact address
+BIN [4079914](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4079914); HPD building id [474047](https://hpdonline.nyc.gov/hpdonline/building/474047/overview); tax lot (BBL) 4033410016; found by exact address
 
 Heat history: 12 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-12-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5459,7 +5459,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 20-69 Shore Boulevard
 
-BIN [4620135](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4620135); HPD building id 929812; tax lot (BBL) 4008940050; found by exact address
+BIN [4620135](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4620135); HPD building id [929812](https://hpdonline.nyc.gov/hpdonline/building/929812/overview); tax lot (BBL) 4008940050; found by exact address
 
 Other buildings on this tax lot (4): HPD violations 1 (0 open). Not counted in this building's flag.
 
@@ -5475,7 +5475,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 25-36 27th Street
 
-BIN [4018551](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4018551); HPD building id 843380; tax lot (BBL) 4008610074; found by exact address
+BIN [4018551](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4018551); HPD building id [843380](https://hpdonline.nyc.gov/hpdonline/building/843380/overview); tax lot (BBL) 4008610074; found by exact address
 
 Heat history: 1 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2014-01-19. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5489,7 +5489,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 21-28 35th Street
 
-BIN [4442352](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4442352); HPD building id 810376; tax lot (BBL) 4008307501; found by exact address
+BIN [4442352](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4442352); HPD building id [810376](https://hpdonline.nyc.gov/hpdonline/building/810376/overview); tax lot (BBL) 4008307501; found by exact address
 
 Other buildings on this tax lot (15): HPD complaints 1 (0 open), HPD violations 20 (17 open), DOB complaints 6 (0 open). Not counted in this building's flag.
 
@@ -5505,7 +5505,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 41-21 Denman St / 41-21 Denman Street
 
-BIN [4039146](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4039146); HPD building id 649532; tax lot (BBL) 4015650064; found by exact address
+BIN [4039146](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4039146); HPD building id [649532](https://hpdonline.nyc.gov/hpdonline/building/649532/overview); tax lot (BBL) 4015650064; found by exact address
 
 Heat history: 6 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-04-04. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5520,7 +5520,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 100-26 67th Road
 
-BIN [4075144](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4075144); HPD building id 460251; tax lot (BBL) 4031710019; found by exact address
+BIN [4075144](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4075144); HPD building id [460251](https://hpdonline.nyc.gov/hpdonline/building/460251/overview); tax lot (BBL) 4031710019; found by exact address
 
 Heat history: 4 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2021-02-25. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5534,7 +5534,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 105-20 66th Ave / 105-20 66th Avenue
 
-BIN [4432087](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432087); HPD building id 946815; tax lot (BBL) 4021530001; found by exact address
+BIN [4432087](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4432087); HPD building id [946815](https://hpdonline.nyc.gov/hpdonline/building/946815/overview); tax lot (BBL) 4021530001; found by exact address
 
 Other buildings on this tax lot (4): HPD violations 1 (0 open). Not counted in this building's flag.
 
@@ -5551,7 +5551,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 34-17 9th Street
 
-BIN [4003854](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4003854); HPD building id 400523; tax lot (BBL) 4003240020; found by exact address
+BIN [4003854](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4003854); HPD building id [400523](https://hpdonline.nyc.gov/hpdonline/building/400523/overview); tax lot (BBL) 4003240020; found by exact address
 
 Heat history: 2 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2014-12-19. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5565,7 +5565,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 64-05 Yellowstone Boulevard
 
-BIN [4532696](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4532696); HPD building id 896929; tax lot (BBL) 4021497501; found by exact address
+BIN [4532696](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4532696); HPD building id [896929](https://hpdonline.nyc.gov/hpdonline/building/896929/overview); tax lot (BBL) 4021497501; found by exact address
 
 Heat history: 5 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2022-01-15. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5579,7 +5579,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 32-51 44th St
 
-BIN [4012353](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012353); HPD building id 432890; tax lot (BBL) 4007070018; found by exact address
+BIN [4012353](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012353); HPD building id [432890](https://hpdonline.nyc.gov/hpdonline/building/432890/overview); tax lot (BBL) 4007070018; found by exact address
 
 Heat history: 5 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2014-03-07. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5593,7 +5593,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟡 3064 34th St
 
-BIN [4009047](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4009047); HPD building id 421710; tax lot (BBL) 4006250070; found by exact address
+BIN [4009047](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4009047); HPD building id [421710](https://hpdonline.nyc.gov/hpdonline/building/421710/overview); tax lot (BBL) 4006250070; found by exact address
 
 Heat history: 7 NO HEAT / NO HEAT AND NO HOT WATER HPD complaint(s) on record, most recently 2018-04-05. Flagged yellow for this regardless of the 18-month window above.
 
@@ -5711,7 +5711,7 @@ Most recent 10 of 11:
 
 ### 🟢 4545 Center Blvd
 
-BIN [4541713](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4541713); HPD building id 945756; tax lot (BBL) 4000210020; found by exact address
+BIN [4541713](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4541713); HPD building id [945756](https://hpdonline.nyc.gov/hpdonline/building/945756/overview); tax lot (BBL) 4000210020; found by exact address
 
 Listed units:
 
@@ -5760,7 +5760,7 @@ Most recent 2 of 2:
 
 ### 🟢 2-24 26th Avenue
 
-BIN [4020687](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020687), [4621019](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4621019); HPD building id 412315; tax lot (BBL) 4009140022; found by exact address
+BIN [4020687](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020687), [4621019](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4621019); HPD building id [412315](https://hpdonline.nyc.gov/hpdonline/building/412315/overview); tax lot (BBL) 4009140022; found by exact address
 
 Listed units:
 
@@ -5808,7 +5808,7 @@ Most recent 4 of 4:
 
 ### 🟢 3705 30th St
 
-BIN [4623388](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623388); HPD building id 1003994; tax lot (BBL) 4003720107; found by exact address
+BIN [4623388](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623388); HPD building id [1003994](https://hpdonline.nyc.gov/hpdonline/building/1003994/overview); tax lot (BBL) 4003720107; found by exact address
 
 Listed units:
 
@@ -5844,7 +5844,7 @@ Most recent 6 of 6:
 
 ### 🟢 37-28 104th Street
 
-BIN [4044297](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4044297), [4623413](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623413); HPD building id 1005484; tax lot (BBL) 4017690018; found by exact address
+BIN [4044297](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4044297), [4623413](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623413); HPD building id [1005484](https://hpdonline.nyc.gov/hpdonline/building/1005484/overview); tax lot (BBL) 4017690018; found by exact address
 
 Listed units:
 
@@ -5919,7 +5919,7 @@ Most recent 3 of 3:
 
 ### 🟢 26-41 3rd Street
 
-BIN [4623290](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623290); HPD building id 1007838; tax lot (BBL) 4009100001; found by exact address
+BIN [4623290](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623290); HPD building id [1007838](https://hpdonline.nyc.gov/hpdonline/building/1007838/overview); tax lot (BBL) 4009100001; found by exact address
 
 Listed units:
 
@@ -5959,7 +5959,7 @@ Most recent 2 of 2:
 
 ### 🟢 23-17 Steinway Street
 
-BIN [4015298](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4015298); HPD building id 697237; tax lot (BBL) 4007930068; found by exact address
+BIN [4015298](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4015298); HPD building id [697237](https://hpdonline.nyc.gov/hpdonline/building/697237/overview); tax lot (BBL) 4007930068; found by exact address
 
 Listed units:
 
@@ -6089,7 +6089,7 @@ Most recent 2 of 2:
 
 ### 🟢 47-33 5th St
 
-BIN [4000092](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4000092); HPD building id 399456; tax lot (BBL) 4000300026; found by exact address
+BIN [4000092](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4000092); HPD building id [399456](https://hpdonline.nyc.gov/hpdonline/building/399456/overview); tax lot (BBL) 4000300026; found by exact address
 
 Listed units:
 
@@ -6122,7 +6122,7 @@ None since 2025-04-11.
 
 ### 🟢 31-15 21st Avenue
 
-BIN [4016829](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4016829); HPD building id 406257; tax lot (BBL) 4008290035; found by exact address
+BIN [4016829](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4016829); HPD building id [406257](https://hpdonline.nyc.gov/hpdonline/building/406257/overview); tax lot (BBL) 4008290035; found by exact address
 
 Listed units:
 
@@ -6182,7 +6182,7 @@ Most recent 1 of 1:
 
 ### 🟢 34-20 79th Street
 
-BIN [4029133](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029133); HPD building id 481092; tax lot (BBL) 4012650011; found by exact address
+BIN [4029133](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4029133); HPD building id [481092](https://hpdonline.nyc.gov/hpdonline/building/481092/overview); tax lot (BBL) 4012650011; found by exact address
 
 Listed units:
 
@@ -6212,7 +6212,7 @@ Most recent 1 of 1:
 
 ### 🟢 75-23 113th St / 75-23 113th Street
 
-BIN [4052768](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052768); HPD building id 525833; tax lot (BBL) 4022650067; found by exact address
+BIN [4052768](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4052768); HPD building id [525833](https://hpdonline.nyc.gov/hpdonline/building/525833/overview); tax lot (BBL) 4022650067; found by exact address
 
 Listed units:
 
@@ -6243,7 +6243,7 @@ None since 2025-04-11.
 
 ### 🟢 46-09 69th Street
 
-BIN [4623448](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623448); HPD building id 990968; tax lot (BBL) 4024320009; found by exact address
+BIN [4623448](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4623448); HPD building id [990968](https://hpdonline.nyc.gov/hpdonline/building/990968/overview); tax lot (BBL) 4024320009; found by exact address
 
 Listed units:
 
@@ -6274,7 +6274,7 @@ None since 2025-04-11.
 
 ### 🟢 23-11 37th Street
 
-BIN [4532197](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4532197); HPD building id 884482; tax lot (BBL) 4008040123; found by exact address
+BIN [4532197](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4532197); HPD building id [884482](https://hpdonline.nyc.gov/hpdonline/building/884482/overview); tax lot (BBL) 4008040123; found by exact address
 
 Listed units:
 
@@ -6304,7 +6304,7 @@ None since 2025-04-11.
 
 ### 🟢 32-20 56th Street
 
-BIN [4026043](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4026043); HPD building id 444742; tax lot (BBL) 4011570019; found by exact address
+BIN [4026043](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4026043); HPD building id [444742](https://hpdonline.nyc.gov/hpdonline/building/444742/overview); tax lot (BBL) 4011570019; found by exact address
 
 Listed units:
 
@@ -6489,7 +6489,7 @@ Most recent 1 of 1:
 
 ### 🟢 34-08 42nd St / 34-08 42nd Street
 
-BIN [4010929](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4010929); HPD building id 430564; tax lot (BBL) 4006740019; found by exact address
+BIN [4010929](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4010929); HPD building id [430564](https://hpdonline.nyc.gov/hpdonline/building/430564/overview); tax lot (BBL) 4006740019; found by exact address
 
 Listed units:
 
@@ -6502,7 +6502,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 40-28 77th Street
 
-BIN [4036776](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036776); HPD building id 477334; tax lot (BBL) 4014870121; found by exact address
+BIN [4036776](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4036776); HPD building id [477334](https://hpdonline.nyc.gov/hpdonline/building/477334/overview); tax lot (BBL) 4014870121; found by exact address
 
 Listed units:
 
@@ -6526,7 +6526,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 23-35 31st Street
 
-BIN [4017179](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4017179); HPD building id 417911; tax lot (BBL) 4008350024; found by exact address
+BIN [4017179](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4017179); HPD building id [417911](https://hpdonline.nyc.gov/hpdonline/building/417911/overview); tax lot (BBL) 4008350024; found by exact address
 
 Listed units:
 
@@ -6550,7 +6550,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 65-24 38th Avenue
 
-BIN [4438545](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4438545); HPD building id 425935; tax lot (BBL) 4012237502; found by exact address
+BIN [4438545](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4438545); HPD building id [425935](https://hpdonline.nyc.gov/hpdonline/building/425935/overview); tax lot (BBL) 4012237502; found by exact address
 
 Listed units:
 
@@ -6562,7 +6562,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 31-28 32nd Street
 
-BIN [4008382](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008382); HPD building id 419320; tax lot (BBL) 4006130052; found by exact address
+BIN [4008382](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008382); HPD building id [419320](https://hpdonline.nyc.gov/hpdonline/building/419320/overview); tax lot (BBL) 4006130052; found by exact address
 
 Listed units:
 
@@ -6574,7 +6574,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 31-28 33rd Street
 
-BIN [4008445](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008445); HPD building id 420578; tax lot (BBL) 4006140053; found by exact address
+BIN [4008445](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008445); HPD building id [420578](https://hpdonline.nyc.gov/hpdonline/building/420578/overview); tax lot (BBL) 4006140053; found by exact address
 
 Listed units:
 
@@ -6586,7 +6586,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 31-33 32nd Street / 3133 32nd St
 
-BIN [4008425](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008425); HPD building id 419324; tax lot (BBL) 4006140030; found by exact address
+BIN [4008425](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4008425); HPD building id [419324](https://hpdonline.nyc.gov/hpdonline/building/419324/overview); tax lot (BBL) 4006140030; found by exact address
 
 Listed units:
 
@@ -6635,7 +6635,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 43-30 42nd Street
 
-BIN [4002466](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4002466); HPD building id 430627; tax lot (BBL) 4001880036; found by exact address
+BIN [4002466](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4002466); HPD building id [430627](https://hpdonline.nyc.gov/hpdonline/building/430627/overview); tax lot (BBL) 4001880036; found by exact address
 
 Listed units:
 
@@ -6684,7 +6684,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 23-07 33rd Street
 
-BIN [4017153](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4017153); HPD building id 420348; tax lot (BBL) 4008340129; found by exact address
+BIN [4017153](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4017153); HPD building id [420348](https://hpdonline.nyc.gov/hpdonline/building/420348/overview); tax lot (BBL) 4008340129; found by exact address
 
 Listed units:
 
@@ -6696,7 +6696,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 31-38 137th Street
 
-BIN [4540139](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4540139); HPD building id 933263; tax lot (BBL) 4044097502; found by exact address
+BIN [4540139](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4540139); HPD building id [933263](https://hpdonline.nyc.gov/hpdonline/building/933263/overview); tax lot (BBL) 4044097502; found by exact address
 
 Listed units:
 
@@ -6720,7 +6720,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 36-40 Crescent Street
 
-BIN [4004217](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4004217); HPD building id 411744; tax lot (BBL) 4003450043; found by exact address
+BIN [4004217](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4004217); HPD building id [411744](https://hpdonline.nyc.gov/hpdonline/building/411744/overview); tax lot (BBL) 4003450043; found by exact address
 
 Listed units:
 
@@ -6757,7 +6757,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 25-45 70th Street
 
-BIN [4022942](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4022942); HPD building id 465728; tax lot (BBL) 4010470060; found by exact address
+BIN [4022942](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4022942); HPD building id [465728](https://hpdonline.nyc.gov/hpdonline/building/465728/overview); tax lot (BBL) 4010470060; found by exact address
 
 Listed units:
 
@@ -6769,7 +6769,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 26-25 4th Street
 
-BIN [4020649](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020649), [4620901](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4620901); HPD building id 1010820; tax lot (BBL) 4009090009; found by exact address
+BIN [4020649](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020649), [4620901](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4620901); HPD building id [1010820](https://hpdonline.nyc.gov/hpdonline/building/1010820/overview); tax lot (BBL) 4009090009; found by exact address
 
 Listed units:
 
@@ -6782,7 +6782,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 30-45 Hobart Street
 
-BIN [4431256](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431256); HPD building id 811542; tax lot (BBL) 4011110001; found by exact address
+BIN [4431256](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4431256); HPD building id [811542](https://hpdonline.nyc.gov/hpdonline/building/811542/overview); tax lot (BBL) 4011110001; found by exact address
 
 Other buildings on this tax lot (9): HPD violations 1 (1 open), DOB complaints 4 (1 open). Not counted in this building's flag.
 
@@ -6820,7 +6820,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 100-05 39th Avenue
 
-BIN [4536912](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4536912); HPD building id 886986; tax lot (BBL) 4017667501; found by exact address
+BIN [4536912](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4536912); HPD building id [886986](https://hpdonline.nyc.gov/hpdonline/building/886986/overview); tax lot (BBL) 4017667501; found by exact address
 
 Other buildings on this tax lot (2): HPD violations 2 (0 open). Not counted in this building's flag.
 
@@ -6834,7 +6834,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 131-05 40th Road
 
-BIN [4614946](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4614946); HPD building id 981840; tax lot (BBL) 4050669100; found by exact address
+BIN [4614946](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4614946); HPD building id [981840](https://hpdonline.nyc.gov/hpdonline/building/981840/overview); tax lot (BBL) 4050669100; found by exact address
 
 Listed units:
 
@@ -6870,7 +6870,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 30-22 31st Street
 
-BIN [4007654](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007654); HPD building id 418008; tax lot (BBL) 4005930035; found by exact address
+BIN [4007654](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4007654); HPD building id [418008](https://hpdonline.nyc.gov/hpdonline/building/418008/overview); tax lot (BBL) 4005930035; found by exact address
 
 Listed units:
 
@@ -6882,7 +6882,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 11-14 Main Avenue
 
-BIN [4307222](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4307222); HPD building id 940061; tax lot (BBL) 4005130030; found by exact address
+BIN [4307222](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4307222); HPD building id [940061](https://hpdonline.nyc.gov/hpdonline/building/940061/overview); tax lot (BBL) 4005130030; found by exact address
 
 Listed units:
 
@@ -6906,7 +6906,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 40-25 Junction Boulevard
 
-BIN [4447937](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4447937); HPD building id 669791; tax lot (BBL) 4016050062; found by exact address
+BIN [4447937](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4447937); HPD building id [669791](https://hpdonline.nyc.gov/hpdonline/building/669791/overview); tax lot (BBL) 4016050062; found by exact address
 
 Listed units:
 
@@ -6930,7 +6930,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 28-56 47th Street
 
-BIN [4012965](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012965); HPD building id 416182; tax lot (BBL) 4007200047; found by exact address
+BIN [4012965](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4012965); HPD building id [416182](https://hpdonline.nyc.gov/hpdonline/building/416182/overview); tax lot (BBL) 4007200047; found by exact address
 
 Listed units:
 
@@ -6991,7 +6991,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 26-19 2nd Street
 
-BIN [4020682](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020682); HPD building id 969667; tax lot (BBL) 4009140008; found by exact address
+BIN [4020682](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4020682); HPD building id [969667](https://hpdonline.nyc.gov/hpdonline/building/969667/overview); tax lot (BBL) 4009140008; found by exact address
 
 Listed units:
 
@@ -7003,7 +7003,7 @@ No HPD complaints, HPD violations, DOB complaints since 2025-04-11.
 
 ### 🟢 4528 42nd St
 
-BIN [4002542](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4002542); HPD building id 430644; tax lot (BBL) 4001920042; found by exact address
+BIN [4002542](https://a810-bisweb.nyc.gov/bisweb/PropertyProfileOverviewServlet?bin=4002542); HPD building id [430644](https://hpdonline.nyc.gov/hpdonline/building/430644/overview); tax lot (BBL) 4001920042; found by exact address
 
 Listed units:
 
